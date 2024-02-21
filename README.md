@@ -42,3 +42,6 @@ This repo is using an API which is [a simple app](https://github.com/Ismaestro/t
 Enjoy :metal:
 
 I'm always happy to hear your feedback!
+
+
+Thanks
